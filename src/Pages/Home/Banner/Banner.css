@@ -1,0 +1,24 @@
+.carousel {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.carousel img {
+    height: 550px;
+}
+
+.carousel-1 h3{
+    color: rgba(60, 60, 146, 0.856);
+}
+
+.carousel-1 h6{
+    color: rgba(60, 60, 146, 0.856);
+}
+
+.carousel-3 h3{
+    color: sienna;
+}
+
+.carousel-3 h6{
+    color: sienna;
+}

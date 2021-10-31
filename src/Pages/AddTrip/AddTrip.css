@@ -1,0 +1,20 @@
+.add-trip{
+    padding: 35px;
+}
+
+.add-trip label{
+    padding: 10px;
+}
+
+.add-btn{
+    background-color: slategrey;
+    margin-top: 20px;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.add-btn:hover{
+    color: steelblue;
+    background-color: silver;
+}
