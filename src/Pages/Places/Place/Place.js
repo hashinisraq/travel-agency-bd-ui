@@ -10,7 +10,7 @@ const Place = ({ place }) => {
             <Col>
                 <Card className="card-container">
                     <Card.Body>
-                        <img src={img} alt="" />
+                        <img width="80%" src={img} alt="" />
                         <Card.Text>
                             <h5>Place: {name}</h5>
                             <h5>Pakage: {pakage}</h5>
